@@ -43,7 +43,7 @@
     <tr>
       <td style="text-align: center; padding: 8px;">پُست تِرَکر</td>
       <td style="text-align: center; padding: 8px;">کتابخانه و ابزار خط فرمان برای رهگیری وضعیت مرسولات پستی (از شرکت ملی پست ایران)</td>
-      <td style="text-align: center; padding: 8px;"><a href="github.com/amirAref/post-tracker">post-tracker</a></td>
+      <td style="text-align: center; padding: 8px;"><a href="https://github.com/amirAref/post-tracker">post-tracker</a></td>
     </tr>
 </table>
 
